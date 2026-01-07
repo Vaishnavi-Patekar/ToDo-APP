@@ -1,0 +1,22 @@
+.app {
+  width: 300px;
+  margin: auto;
+  text-align: center;
+}
+
+input {
+  padding: 8px;
+  width: 70%;
+}
+
+button {
+  padding: 8px;
+  margin-left: 5px;
+}
+
+li {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+}
