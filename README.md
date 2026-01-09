@@ -9,8 +9,8 @@ A simple and responsive Task Management (TODO) application built with React.js. 
 *   **Empty State Handling:** Gracefully handles the display when no tasks are present.
 
 ## 🛠️ Built With
-*   [React.js]
-*   [Vite]
+*   React.js
+*   Vite
 *   CSS for styling
 
 ## 📥 Installation & Setup
