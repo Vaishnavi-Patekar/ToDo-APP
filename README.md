@@ -8,6 +8,7 @@ A simple and responsive Task Management (TODO) application built with React.js. 
 *   **Dynamic UI:** List updates instantly without refreshing the page.
 *   **Empty State Handling:** Gracefully handles the display when no tasks are present.
 
+
 ## 🛠️ Built With
 *   React.js
 *   Vite
